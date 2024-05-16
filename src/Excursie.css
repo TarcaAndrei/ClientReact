@@ -1,0 +1,25 @@
+.container_excursie {
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    border-radius: 10px;
+    background: #222;
+    position: relative;
+    width: 325px;
+}
+
+.close{
+    position: absolute;
+    top: -0px;
+    right: -0px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}
+
+.cntbttns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
